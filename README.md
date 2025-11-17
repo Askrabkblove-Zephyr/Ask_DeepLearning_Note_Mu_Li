@@ -4,7 +4,7 @@
 
 **教材**：[https://zh-v2.d2l.ai/](http://d2l.ai/)
 
-**课程主页：**https://courses.d2l.ai/zh-v2/
+**课程主页**：https://courses.d2l.ai/zh-v2/
 
 **b站视频**：[B站 - 动手学深度学习](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
