@@ -88,7 +88,11 @@ exit()
 
 `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121`
 
+#### 安装rise：
 
+[^RISE]: ****  **Reveal.js IPython Slideshow Extension**
+
+`pip install rise`
 
 # windows下：
 
@@ -142,3 +146,9 @@ conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/ms
 或者下载之前的版本
 
 `https://pytorch.org/get-started/previous-versions/`
+
+#### 安装rise：
+
+[^RISE]: ****  **Reveal.js IPython Slideshow Extension**
+
+`pip install rise`
