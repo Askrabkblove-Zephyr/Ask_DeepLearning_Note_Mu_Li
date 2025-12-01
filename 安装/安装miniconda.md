@@ -152,3 +152,16 @@ conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/ms
 [^RISE]: ****  **Reveal.js IPython Slideshow Extension**
 
 `pip install rise`
+
+## 配置环境变量
+
+#### 查看Miniconda的安装路径：
+
+`win+r ` 打开 `cmd`  输入`conda info`查看输出结果后面的`base environment`
+
+比如：` base environment : C:\ProgramData\miniconda3  (read only)`
+
+#### 配置环境变量 ：
+
+在path下加入：`C:\ProgramData\miniconda3`\ `C:\ProgramData\miniconda3\Scripts\`
+
