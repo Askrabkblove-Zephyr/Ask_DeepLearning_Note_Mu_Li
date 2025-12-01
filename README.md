@@ -3,7 +3,6 @@
 这是一个基于 《动手学深度学习》（李沐 著）的个人学习笔记与代码实践仓库。通过这个仓库，我系统地记录和梳理深度学习的基础知识、核心模型以及实战代码，旨在构建一个结构化的知识体系，并追踪自己的学习轨迹。
 
 # 🚀 快速开始
-bash
 ## 克隆仓库
 git clone https://github.com/Askrabkblove-Zephyr/Ask_DeepLearning_Note_Mu_Li.git
 
@@ -27,7 +26,6 @@ A structured knowledge repository documenting my journey through "Dive into Deep
 This is a personal learning notes and code practice repository based on **"Dive into Deep Learning"** (by Mu Li). Through this repository, I systematically record and organize fundamental knowledge of deep learning, core models, and practical code implementations, aiming to build a structured knowledge framework and track my learning journey.
 
 # 🚀 Quick Start
-bash
 ## Clone repository
 git clone https://github.com/Askrabkblove-Zephyr/Ask_DeepLearning_Note_Mu_Li.git
 
