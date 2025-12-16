@@ -30,3 +30,6 @@ This is a personal learning notes and code practice repository based on **"Dive 
 
 
 
+**如果觉得对你有帮助，可以请我喝杯饮料**
+
+<img src="pics/b89e740a651b58b24814f1e2be9f71f9.jpg" alt="b89e740a651b58b24814f1e2be9f71f9" style="zoom:50%;" />
